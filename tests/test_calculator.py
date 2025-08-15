@@ -1,5 +1,5 @@
 import pytest
-from mylib2 import calculator
+from mylib import calculator
 
 
 #--- Fixture Example---
